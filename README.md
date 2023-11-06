@@ -2,6 +2,10 @@
 Convert the [Rogers Bank](https://rogersbank.com) transaction history csv format into a https://lunchmoney.app csv format.
 
 ### Usage
+1. [Visit this link](https://github.com/yawhide/rogers_transaction_history_csv_formatter/archive/main.zip) to download the code in this repository.
+1. Extract the main.zip file and go into the folder.
+1. Open your terminal and `cd` into this folder you just extracted above.
+1. Run the following:
 ```
 python parse.py path/to/rogers-transaction-history-csv
 ```
