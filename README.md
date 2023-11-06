@@ -19,3 +19,5 @@ This program will output a csv called `lunch_money_export_{timestamp}.csv`. Exam
 
 ### Notes
 Ensure you wrap the file path in double quotes as Rogers Bank by default has spaces in the transaction history csv file name.
+
+Macos and linux include Python by default (i think!) so users on those operating systems dont need to install python. If you are on windows though, you might have to install python if you don't already have it by visiting this link: https://www.python.org/downloads/. To check if you have python, you can run `python -V` or `python3 -V` in your terminal.
